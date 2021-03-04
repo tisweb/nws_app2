@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158627259857",
+    "project_id": "adder-a52de",
+    "storage_bucket": "adder-a52de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158627259857:android:f0e4fcc4b2fb1b930becf0",
+        "android_client_info": {
+          "package_name": "com.example.nws_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158627259857-nul2bj6n3ajbu43cmu25r2s30qoohq6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nws_app2",
+            "certificate_hash": "0f424c1dd47a385e09960fd891f1ae8fd1f7b31b"
+          }
+        },
+        {
+          "client_id": "158627259857-89nbf8mg6t0gfrc1568jiaul1la31040.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJ9N25tbjvhxR3QMRvoiqHQqqa0QrHGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158627259857-89nbf8mg6t0gfrc1568jiaul1la31040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
